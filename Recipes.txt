@@ -1,0 +1,53 @@
+Good Old-Fashioned Pancakes
+Flour 190
+Milk 300
+Eggs 50
+Butter 42
+Backpulver 14
+Sugar 13
+Salt 1.5
+
+Omelette
+Eggs 150
+Milk 100
+
+Smoothie
+Milk 200
+Banana 100
+
+Fluffy Microwave Scrambled Eggs
+Eggs 200
+Milk 60
+Salt 0.75
+
+Creamed Eggs on Toast
+Eggs 600
+Butter 57
+Flour 65
+Milk 720
+Bread 180
+Salt 2
+
+Homemade Mac and Cheese
+Macaroni 225
+Butter 57
+Flour 24
+Milk 600
+Cheese 250
+Salt 3
+
+Beef With Mashed Potatoes
+Beef 250
+Potatoes 300
+Butter 50
+Salt 4
+
+Chicken and Potatoes
+Chiken 300
+Potatoes 300
+Salt 3
+
+French fries
+Potatoes 400
+Oil 60
+Salt 2.5
